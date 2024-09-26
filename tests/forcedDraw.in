@@ -1,0 +1,6 @@
+setup
++ K a1 + k c2
++ q f5
+= black
+done game human human
+move f5 d5

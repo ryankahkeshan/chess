@@ -1,0 +1,14 @@
+setup
++ K e1 + k e8
++ R h1
++ b d4
++ N e2
+= black
+done game human human
+move d4 c3
+
+move e1 g1
+move e2 c3
+move e8 f7
+move e1 g1
+resign

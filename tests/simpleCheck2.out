@@ -1,0 +1,60 @@
+8 rnbqkbnr
+7 pppppppp
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2 PPPPPPPP
+1 RNBQKBNR
+
+  abcdefgh
+
+8 rnbqkbnr
+7 pppppppp
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ P _
+3 _ _ _ _ 
+2 PPPPP_PP
+1 RNBQKBNR
+
+  abcdefgh
+
+8 rnbqkbnr
+7 pppp_ppp
+6  _ _ _ _
+5 _ _ p _ 
+4  _ _ P _
+3 _ _ _ _ 
+2 PPPPP_PP
+1 RNBQKBNR
+
+  abcdefgh
+
+8 rnbqkbnr
+7 pppp_ppp
+6  _ _ _ _
+5 _ _ P _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2 PPPPP_PP
+1 RNBQKBNR
+
+  abcdefgh
+
+8 rnb_kbnr
+7 pppp_ppp
+6  _ _ _ _
+5 _ _ P _ 
+4  _ _ _ q
+3 _ _ _ _ 
+2 PPPPP_PP
+1 RNBQKBNR
+
+  abcdefgh
+
+White is in check.
+Black wins!
+Final Score:
+White: 0
+Black: 1

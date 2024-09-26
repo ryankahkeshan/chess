@@ -1,0 +1,59 @@
+game human human
+move e2 e4
+move d7 d5
+move e4 d5
+move e7 e6
+move d5 e6
+move f8 c5
+move e6 e7
+move e8 e7
+move f1 c4
+move e7 e8
+move c4 b3
+move g8 f6
+move g1 f3
+
+move e8 g8
+move f6 e4
+move e1 g1
+move e4 c3
+
+move c2 c3
+
+move c2 c4
+move f3 e5
+move c3 a2
+move e5 g6
+
+move g7 g6
+
+move g7 g5
+move h7 g6
+move h2 h4
+move g6 g5
+move a1 a2
+move g5 g4
+move a2 a5
+
+move g4 h3
+
+move e8 f7
+move e8 f8
+move a5 c5
+move a7 a5
+move f2 f4
+
+move g4 f4
+move g4 f3
+move g1 f2
+move f3 g2
+move f2 e1
+
+move g2 g1 Q
+
+move g2 g1 p
+
+move g2 g1 k
+
+move g2 g1 r
+

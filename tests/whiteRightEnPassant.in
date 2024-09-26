@@ -1,0 +1,23 @@
+setup
++ K e1
++ k e8
++ P d4
++ p c7
++ p e7
+done
+game human human
+move d4 d5
+move e8 d7
+
+move d5 c6
+move d5 e6
+
+move e1 e2
+move c7 c6
+move e2 e1
+move c6 c5
+
+move d5 c6
+move e1 e2
+move e7 e5
+move d5 e6

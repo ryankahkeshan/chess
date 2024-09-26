@@ -1,0 +1,14 @@
+setup 
++ K e1 + k e8
++ R f1
+= black
+done game human human
+
+move e8 f8
+
+move e8 f7
+move e8 e7
+move f1 f7
+
+move e7 d7
+move e7 f7

@@ -1,0 +1,220 @@
+8  _ _ _ _
+7 _ _ _ _ 
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2  _ _ _ _
+1 _ _ K _ 
+
+  abcdefgh
+
+8  _ _k_ _
+7 _ _ _ _ 
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2  _ _ _ _
+1 _ _ K _ 
+
+  abcdefgh
+
+8  _ _k_ _
+7 _ _ _ _ 
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2  _ _ _ _
+1 R _ K _ 
+
+  abcdefgh
+
+8 r_ _k_ _
+7 _ _ _ _ 
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2  _ _ _ _
+1 R _ K _ 
+
+  abcdefgh
+
+8 r_ _k_ _
+7 _ _ _ _ 
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _N_ 
+2  _ _ _ _
+1 R _ K _ 
+
+  abcdefgh
+
+8 r_ _k_ _
+7 _ _ _ _ 
+6  _ _ _ _
+5 _ _ _ _ 
+4  _N_ _ _
+3 _ _ _N_ 
+2  _ _ _ _
+1 R _ K _ 
+
+  abcdefgh
+
+8 r_ _k_ _
+7 _ _ _ _ 
+6  _ _ _ _
+5 _ N _ _ 
+4  _N_ _ _
+3 _ _ _N_ 
+2  _ _ _ _
+1 R _ K _ 
+
+  abcdefgh
+
+8 r_ _k_ _
+7 _ _ _ _ 
+6  _ _ _ _
+5 _ N _ _ 
+4  _N_ _ _
+3 _n_ _N_ 
+2  _ _ _ _
+1 R _ K _ 
+
+  abcdefgh
+
+8 r_ _k_ _
+7 _ _ _ _ 
+6  _ _ _ _
+5 _ N _b_ 
+4  _N_ _ _
+3 _n_ _N_ 
+2  _ _ _ _
+1 R _ K _ 
+
+  abcdefgh
+
+8 r_ _k_ _
+7 _ _ _ _ 
+6  _ _ _ _
+5 _ N _bb 
+4  _N_ _ _
+3 _n_ _N_ 
+2  _ _ _ _
+1 R _ K _ 
+
+  abcdefgh
+
+8 r_ _k_ _
+7 _ _ _ _ 
+6  _ _ _ _
+5 _ N _bb 
+4  _N_ _ _
+3 _n_ _N_ 
+2  _ _ _ _
+1 R _ K _ 
+
+  abcdefgh
+
+8 r_ _k_ _
+7 _ _ _ _ 
+6  _ _ _ _
+5 _ N _b_ 
+4  _N_ _ b
+3 _n_ _N_ 
+2  _ _ _ _
+1 R _ K _ 
+
+  abcdefgh
+
+White is in check.
+Invalid move
+8 r_ _k_ _
+7 _ _ _ _ 
+6  _ _ _ _
+5 _ N _b_ 
+4  _N_ _ N
+3 _n_ _ _ 
+2  _ _ _ _
+1 R _ K _ 
+
+  abcdefgh
+
+8  _kr _ _
+7 _ _ _ _ 
+6  _ _ _ _
+5 _ N _b_ 
+4  _N_ _ N
+3 _n_ _ _ 
+2  _ _ _ _
+1 R _ K _ 
+
+  abcdefgh
+
+Invalid move
+8  _kr _ _
+7 _ _ _ _ 
+6  _ N _ _
+5 _ N _b_ 
+4  _ _ _ N
+3 _n_ _ _ 
+2  _ _ _ _
+1 R _ K _ 
+
+  abcdefgh
+
+Black is in check.
+Invalid move
+8  _ r _ _
+7 _ k _ _ 
+6  _ N _ _
+5 _ N _b_ 
+4  _ _ _ N
+3 _n_ _ _ 
+2  _ _ _ _
+1 R _ K _ 
+
+  abcdefgh
+
+Invalid move
+8  _ r _ _
+7 _ k _ _ 
+6  _ N _ _
+5 _ _ _b_ 
+4  _ _ _ N
+3 _N_ _ _ 
+2  _ _ _ _
+1 R _ K _ 
+
+  abcdefgh
+
+Invalid move
+8  _ r _ _
+7 _ _ _ _ 
+6  _ k _ _
+5 _ _ _b_ 
+4  _ _ _ N
+3 _N_ _ _ 
+2  _ _ _ _
+1 R _ K _ 
+
+  abcdefgh
+
+8  _ r _ _
+7 _ _ _ _ 
+6  _ k _ _
+5 _ _ _b_ 
+4  _ _ _ N
+3 _N_ _ _ 
+2  _ _ _ _
+1 _ KR_ _ 
+
+  abcdefgh
+
+Black is in check.
+Final Score:
+White: 0
+Black: 0

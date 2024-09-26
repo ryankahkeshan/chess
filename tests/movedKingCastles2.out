@@ -1,0 +1,162 @@
+8 rnbqkbnr
+7 pppppppp
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2 PPPPPPPP
+1 RNBQKBNR
+
+  abcdefgh
+
+8 rnbqkbnr
+7 pppppppp
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ P _ _
+3 _ _ _ _ 
+2 PPP_PPPP
+1 RNBQKBNR
+
+  abcdefgh
+
+8 rnbqkbnr
+7 ppp pppp
+6  _ _ _ _
+5 _ _p_ _ 
+4  _ P _ _
+3 _ _ _ _ 
+2 PPP_PPPP
+1 RNBQKBNR
+
+  abcdefgh
+
+Invalid move
+8 rnbqkbnr
+7 ppp pppp
+6  _ _ _ _
+5 _ _p_ _ 
+4  _ P _ _
+3 _ N _ _ 
+2 PPP_PPPP
+1 R BQKBNR
+
+  abcdefgh
+
+8 r_bqkbnr
+7 ppp pppp
+6  _n_ _ _
+5 _ _p_ _ 
+4  _ P _ _
+3 _ N _ _ 
+2 PPP_PPPP
+1 R BQKBNR
+
+  abcdefgh
+
+8 r_bqkbnr
+7 ppp pppp
+6  _n_ _ _
+5 _ _p_ _ 
+4  _ P B _
+3 _ N _ _ 
+2 PPP_PPPP
+1 R _QKBNR
+
+  abcdefgh
+
+8 r_ qkbnr
+7 ppp pppp
+6  _n_ _ _
+5 _ _p_b_ 
+4  _ P B _
+3 _ N _ _ 
+2 PPP_PPPP
+1 R _QKBNR
+
+  abcdefgh
+
+8 r_ qkbnr
+7 ppp pppp
+6  _n_ _ _
+5 _ _p_b_ 
+4  _ P B _
+3 _ N _ _ 
+2 PPPQPPPP
+1 R _ KBNR
+
+  abcdefgh
+
+8 r_ _kbnr
+7 pppqpppp
+6  _n_ _ _
+5 _ _p_b_ 
+4  _ P B _
+3 _ N _ _ 
+2 PPPQPPPP
+1 R _ KBNR
+
+  abcdefgh
+
+8 r_ _kbnr
+7 pppqpppp
+6  _n_ _ _
+5 _ _p_b_ 
+4  _ P B _
+3 _ N _ _ 
+2 PPPQPPPP
+1 R _K_BNR
+
+  abcdefgh
+
+8 r_ k bnr
+7 pppqpppp
+6  _n_ _ _
+5 _ _p_b_ 
+4  _ P B _
+3 _ N _ _ 
+2 PPPQPPPP
+1 R _K_BNR
+
+  abcdefgh
+
+8 r_ k bnr
+7 pppqpppp
+6  _n_ _ _
+5 _ _p_b_ 
+4  _ P B _
+3 _ N _ _ 
+2 PPPQPPPP
+1 R _ KBNR
+
+  abcdefgh
+
+Invalid squares
+8 r_ _kbnr
+7 pppqpppp
+6  _n_ _ _
+5 _ _p_b_ 
+4  _ P B _
+3 _ N _ _ 
+2 PPPQPPPP
+1 R _ KBNR
+
+  abcdefgh
+
+Invalid move
+8 r_ _kbnr
+7 pppqpppp
+6  _n_ _ _
+5 _ _p_b_ 
+4  _ P B _
+3 _ N _ _ 
+2 PPPQPPPP
+1 R _K_BNR
+
+  abcdefgh
+
+Invalid move
+White wins!
+Final Score:
+White: 1
+Black: 0

@@ -1,0 +1,136 @@
+8 rnbqkbnr
+7 pppppppp
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2 PPPPPPPP
+1 RNBQKBNR
+
+  abcdefgh
+
+8 rnbqkbnr
+7 pppppppp
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _P_ _
+3 _ _ _ _ 
+2 PPPP PPP
+1 RNBQKBNR
+
+  abcdefgh
+
+8 rnbqkbnr
+7 ppppppp 
+6  _ _ _ p
+5 _ _ _ _ 
+4  _ _P_ _
+3 _ _ _ _ 
+2 PPPP PPP
+1 RNBQKBNR
+
+  abcdefgh
+
+8 rnbqkbnr
+7 ppppppp 
+6  _ _ _ p
+5 _ _ _ _ 
+4  _ _P_ _
+3 _ _ _N_ 
+2 PPPP PPP
+1 RNBQKB_R
+
+  abcdefgh
+
+8 rnbqkbnr
+7 pppppp_ 
+6  _ _ _ p
+5 _ _ _ p 
+4  _ _P_ _
+3 _ _ _N_ 
+2 PPPP PPP
+1 RNBQKB_R
+
+  abcdefgh
+
+8 rnbqkbnr
+7 pppppp_ 
+6  _ _ _ p
+5 _ _ _ N 
+4  _ _P_ _
+3 _ _ _ _ 
+2 PPPP PPP
+1 RNBQKB_R
+
+  abcdefgh
+
+8 r_bqkbnr
+7 pppppp_ 
+6  _n_ _ p
+5 _ _ _ N 
+4  _ _P_ _
+3 _ _ _ _ 
+2 PPPP PPP
+1 RNBQKB_R
+
+  abcdefgh
+
+8 r_bqkbnr
+7 pppppp_ 
+6  _n_ _ p
+5 _ _ P N 
+4  _ _ _ _
+3 _ _ _ _ 
+2 PPPP PPP
+1 RNBQKB_R
+
+  abcdefgh
+
+8 r_bqkbnr
+7 _ppppp_ 
+6  _n_ _ p
+5 p _ P N 
+4  _ _ _ _
+3 _ _ _ _ 
+2 PPPP PPP
+1 RNBQKB_R
+
+  abcdefgh
+
+8 r_bqkbnr
+7 _ppppp_ 
+6  _n_P_ p
+5 p _ _ N 
+4  _ _ _ _
+3 _ _ _ _ 
+2 PPPP PPP
+1 RNBQKB_R
+
+  abcdefgh
+
+8 r_bqkbnr
+7 _ pppp_ 
+6  pn_P_ p
+5 p _ _ N 
+4  _ _ _ _
+3 _ _ _ _ 
+2 PPPP PPP
+1 RNBQKB_R
+
+  abcdefgh
+
+8 r_bqkbnr
+7 _ pppP_ 
+6  pn_ _ p
+5 p _ _ N 
+4  _ _ _ _
+3 _ _ _ _ 
+2 PPPP PPP
+1 RNBQKB_R
+
+  abcdefgh
+
+Checkmate! White wins!
+Final Score:
+White: 1
+Black: 0

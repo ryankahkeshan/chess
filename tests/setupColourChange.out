@@ -1,0 +1,110 @@
+8  _ _ _ _
+7 _ _ _ _ 
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2  _ _ _ _
+1 _ _ K _ 
+
+  abcdefgh
+
+8  _ _k_ _
+7 _ _ _ _ 
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2  _ _ _ _
+1 _ _ K _ 
+
+  abcdefgh
+
+8  _ _k_ _
+7 _ _ _ _ 
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2  _ _ _ _
+1 p _ K _ 
+
+  abcdefgh
+
+8  _ _k_p_
+7 _ _ _ _ 
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2  _ _ _ _
+1 p _ K _ 
+
+  abcdefgh
+
+8  _ _k_pr
+7 _ _ _ _ 
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2  _ _ _ _
+1 p _ K _ 
+
+  abcdefgh
+
+Invalid Setup: 
+  - Each player must have exactly one king
+  - There should be no pawns on the first or last row
+8  _ _k_pr
+7 _ _ _ _ 
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2  _ _ _ _
+1 _ _ K _ 
+
+  abcdefgh
+
+Invalid Setup: 
+  - Each player must have exactly one king
+  - There should be no pawns on the first or last row
+8  _ _k_ r
+7 _ _ _ _ 
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2  _ _ _ _
+1 _ _ K _ 
+
+  abcdefgh
+
+8  _ _k_ r
+7 _ _ _ _ 
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2  _ _ _ _
+1 _ _ K _ 
+
+  abcdefgh
+
+Invalid move
+8  _ _ rk_
+7 _ _ _ _ 
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2  _ _ _ _
+1 _ _ K _ 
+
+  abcdefgh
+
+Black wins!
+Final Score:
+White: 0
+Black: 1

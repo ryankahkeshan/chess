@@ -1,0 +1,43 @@
+8 rnbqkbnr
+7 pppppppp
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2 PPPPPPPP
+1 RNBQKBNR
+
+  abcdefgh
+
+Invalid move
+8 rnbqkbnr
+7 pppppppp
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _P_ _
+3 _ _ _ _ 
+2 PPPP PPP
+1 RNBQKBNR
+
+  abcdefgh
+
+Invalid move
+Invalid move
+Invalid move
+Invalid move
+Invalid move
+8 rnbqkb r
+7 pppppppp
+6  _ _ n _
+5 _ _ _ _ 
+4  _ _P_ _
+3 _ _ _ _ 
+2 PPPP PPP
+1 RNBQKBNR
+
+  abcdefgh
+
+Black wins!
+Final Score:
+White: 0
+Black: 1

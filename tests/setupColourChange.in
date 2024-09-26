@@ -1,0 +1,16 @@
+setup
++ K e1
++ k e8
++ p a1
++ p g8
++ r h8
+= black
+done
+- a1
+done
+- g8
+done
+game human human
+move e1 e2
+move e8 g8
+resign

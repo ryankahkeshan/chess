@@ -1,0 +1,30 @@
+setup
++ K e1 + k e8
++ R a1
++ P c7
++ p h3
+done game human human
+
+move c7 c8 r
+
+move c7 c8 P
+move c7 c8 R
+move e8 f7
+move c8 c3
+move f7 e8
+move a1 a8
+move e8 f7
+
+move e1 g1
+
+move e1 c1
+move e1 f1
+move h3 h2
+
+move f1 g1
+move f1 g2
+
+move h2 h1 p
+move h2 h1 B
+move h2 h1 b
+resign

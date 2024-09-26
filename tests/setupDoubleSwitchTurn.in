@@ -1,0 +1,15 @@
+setup
++ K e1
++ k e8
+= blaCk
+done
+setup
++ P e2
++ p e7
+= White
+done
+game human human
+move e7 e6
+move e2 e4
+move e7 e5
+resign

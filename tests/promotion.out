@@ -1,0 +1,272 @@
+8  _ _ _ _
+7 _ _ _ _ 
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2  _ _ _ _
+1 K _ _ _ 
+
+  abcdefgh
+
+8 k_ _ _ _
+7 _ _ _ _ 
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2  _ _ _ _
+1 K _ _ _ 
+
+  abcdefgh
+
+8 k_ _ _ _
+7 _ _ _ _ 
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2  _ _ _ _
+1 KR_ _ _ 
+
+  abcdefgh
+
+8 kr _ _ _
+7 _ _ _ _ 
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2  _ _ _ _
+1 KR_ _ _ 
+
+  abcdefgh
+
+8 kr _ _ _
+7 _ _ _ _ 
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2  P _ _ _
+1 KR_ _ _ 
+
+  abcdefgh
+
+8 kr _ _ _
+7 _p_ _ _ 
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2  P _ _ _
+1 KR_ _ _ 
+
+  abcdefgh
+
+8 kr _ _ _
+7 _p_ P _ 
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2  P _ _ _
+1 KR_ _ _ 
+
+  abcdefgh
+
+8 kr _ _ _
+7 _p_ PP_ 
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2  P _ _ _
+1 KR_ _ _ 
+
+  abcdefgh
+
+8 kr _ _ _
+7 _p_ PP_P
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2  P _ _ _
+1 KR_ _ _ 
+
+  abcdefgh
+
+8 kr n _ _
+7 _p_ PP_P
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2  P _ _ _
+1 KR_ _ _ 
+
+  abcdefgh
+
+8 kr n _n_
+7 _p_ PP_P
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2  P _ _ _
+1 KR_ _ _ 
+
+  abcdefgh
+
+8 kr n _n_
+7 _p_ PP_P
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2  P _p_ _
+1 KR_ _ _ 
+
+  abcdefgh
+
+8 kr n _n_
+7 _p_ PP_P
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2  P _pp _
+1 KR_ _ _ 
+
+  abcdefgh
+
+8 kr n _n_
+7 _p_ PP_P
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2  P _pp p
+1 KR_ _ _ 
+
+  abcdefgh
+
+8 kr n _n_
+7 _p_ PP_P
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2  P _pp p
+1 KR_R_ _ 
+
+  abcdefgh
+
+8 kr n _n_
+7 _p_ PP_P
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2  P _pp p
+1 KR_R_ B 
+
+  abcdefgh
+
+8 kr n _n_
+7 _p_ PP_P
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2  P _pp p
+1 KR_R_ B 
+
+  abcdefgh
+
+Invalid move
+Invalid move
+Invalid move
+Invalid move
+Invalid move
+Invalid move
+Invalid move
+Invalid move
+8 kr n _nN
+7 _p_ PP_ 
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2  P _pp p
+1 KR_R_ B 
+
+  abcdefgh
+
+Invalid move
+Invalid move
+Invalid move
+Invalid move
+Invalid move
+Invalid move
+Invalid move
+Invalid move
+8 kr n _nN
+7 _p_ PP_ 
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2  P _pp _
+1 KR_R_ Bb
+
+  abcdefgh
+
+8 kr n _RN
+7 _p_ P _ 
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2  P _pp _
+1 KR_R_ Bb
+
+  abcdefgh
+
+8 kr n _RN
+7 _p_ P _ 
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2  P _p_ _
+1 KR_R_ qb
+
+  abcdefgh
+
+8 kr B _RN
+7 _p_ _ _ 
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2  P _p_ _
+1 KR_R_ qb
+
+  abcdefgh
+
+8 kr B _RN
+7 _p_ _ _ 
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2  P _ _ _
+1 KR_n_ qb
+
+  abcdefgh
+
+Final Score:
+White: 0
+Black: 0

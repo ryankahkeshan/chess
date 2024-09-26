@@ -1,0 +1,8 @@
+setup
++ K e1
++ k e8
++ B f1
+done
+game human human
+move f1 b5
+resign

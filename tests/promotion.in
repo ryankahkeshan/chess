@@ -1,0 +1,49 @@
+setup
++ K a1 + k a8
++ R b1 + r b8
++ P b2 + p b7
+
++ P e7 + P f7 + P h7
++ n d8 + n g8
+
++ p e2 + p f2 + p h2
++ R d1 + B g1
+done game human human
+
+move h7 h8 p
+
+move h7 h8 r
+
+move h7 h8 b
+
+move h7 h8 n
+
+move h7 h8 k
+
+move h7 h8 q
+
+move h7 h8 P
+
+move h7 h8 K
+move h7 h8 N
+
+move h2 h1 P
+
+move h2 h1 R
+
+move h2 h1 B
+
+move h2 h1 N
+
+move h2 h1 K
+
+move h2 h1 Q
+
+move h2 h1 p
+
+move h2 h1 k
+move h2 h1 b
+move f7 g8 R
+move f2 g1 q
+move e7 d8 B
+move e2 d1 n
